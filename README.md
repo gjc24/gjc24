@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gjc24
 - 👀 I’m interested in cloud and web application technologies.
-- 🌱 I’m currently learning ReactJS with Java Spring Boot.
 - 📫 How to reach me go.jacob@outlook.com.
 
 <!---
