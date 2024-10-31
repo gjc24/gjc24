@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gjc24
-- 👀 I’m interested in cloud and web application technologies.
+- 👀 Full-stack Software Engineer
 - 📫 How to reach me go.jacob@outlook.com.
 
 <!---
